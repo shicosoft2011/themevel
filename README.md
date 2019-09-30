@@ -22,7 +22,7 @@ Themevel is a Laravel 5 theme and asset management package. You can easily integ
 Themevel is a Laravel package so you can install it via Composer. Run this command in your terminal from your project directory:
 
 ```sh
-composer require shipu/themevel
+composer require shicosoft2011/themevel
 ```
 
 Wait for a while, Composer will automatically install Themevel in your project.
